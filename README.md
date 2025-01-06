@@ -7,6 +7,6 @@ Este projeto é um exemplo básico de aplicação Java Web que utiliza Servlets 
 -JSP (JavaServer Pages)
 -Servidor de Aplicação (Tomcat ou similar)
 
-<h2>Funcionamento:</h2>
+<h3>Funcionamento:</h3>
 -A aplicação processa requisições HTTP usando Servlets.
 -As respostas são enviadas para páginas JSP, onde o conteúdo dinâmico é renderizado para o usuário.
