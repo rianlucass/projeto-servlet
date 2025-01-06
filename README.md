@@ -5,7 +5,7 @@ Este projeto é um exemplo básico de aplicação Java Web que utiliza Servlets 
 <h3>Tecnologias Utilizadas:</h3>
 -Java (Servlets)
 -JSP (JavaServer Pages)
--Servidor de Aplicação (Tomcat ou similar)
+-Servidor de Aplicação (Tomcat)
 
 <h3>Funcionamento:</h3>
 -A aplicação processa requisições HTTP usando Servlets.
